@@ -24,6 +24,8 @@ This project demonstrates how to create a modern **grid-based photo gallery** wi
 * **HTML5**
 * **Tailwind CSS (via CDN)**
 * **Unsplash Images**
+![img](./chrome-capture-2026-03-05.png)
+[link](https://elbineldhose007.github.io/grid/)
 
 ---
 
